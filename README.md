@@ -19,9 +19,11 @@
 
 ## Download
 
-![Badge](https://img.shields.io/badge/Windows-blue) <a href="#">.exe Program</a>
+![Badge](https://img.shields.io/badge/Windows-blue) <a href="https://www.mediafire.com/file/wugluvmomqcjgdp/FlatPad-win32-x64.zip/file">Download Now</a>
 
-![Badge](https://img.shields.io/badge/Linux-blueviolet) <a href="#">.deb Package</a>
+![Badge](https://img.shields.io/badge/Linux-blueviolet) <a href="https://www.mediafire.com/file/l8g9v3koop227iz/FlatPad-linux-x64.zip/file">Download Now</a>
+
+![Badge](https://img.shields.io/badge/macOS-red) <a href="https://www.mediafire.com/file/ra6i5bwweb5yu74/FlatPad-darwin-x64.zip/file">Download Now</a>
 
 ## Support
 
