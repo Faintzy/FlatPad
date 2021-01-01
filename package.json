@@ -1,0 +1,23 @@
+{
+  "name": "flatpad",
+  "version": "1.0.0",
+  "description": "A notepad for daily use.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faintzy/flatpad.git"
+  },
+  "keywords": [
+    "notepad",
+    "flatpad"
+  ],
+  "author": "Github -> Faintzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faintzy/flatpad/issues"
+  },
+  "homepage": "https://github.com/Faintzy/flatpad#readme"
+}
